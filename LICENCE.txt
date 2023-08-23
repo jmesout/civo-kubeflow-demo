@@ -1,0 +1,3 @@
+EXAMPLES TAKEN FROM: https://github.com/kubeflow/examples/tree/master
+
+And rebuilt to run on Civo KfaaS, need to put a clear licence thing in here!
